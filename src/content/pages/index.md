@@ -9,3 +9,7 @@ cta:
   ctaLink: /about
 ---
 Professional Freelance Photographer from Maldives,
+
+
+
+[a﻿dmin](https://1.asad.photo/admin/)
