@@ -3,7 +3,4 @@ template: contact-page
 slug: /contact
 title: Get in touch
 ---
-
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
-
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+G﻿ot a plan for a Photo Shoot in Maldives, You can connect me with any of my social media channels direct or my mobile on most of voip calls and message platforms be it, WhatsaApp, Telegram, Botim or Messenger,
