@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Asad Photo",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Freelance Professional Photographer from the Maldives",
+    "siteUrl": "https://v.asad.photo",
+    "image": "/assets/logo-asad-photo.svg",
+    "iconimage": "/assets/asad-photo-icon.svg",
+    "twitterUsername": "@asadphoto"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
