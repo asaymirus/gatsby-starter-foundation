@@ -6,7 +6,7 @@ tagline: Photographer in Maldives
 featuredImage: /assets/aaa_7156.jpg
 cta:
   ctaText: Read More
-  ctaLink: /about
+  ctaLink: /admin
 ---
 Professional Freelance Photographer from Maldives,
 
