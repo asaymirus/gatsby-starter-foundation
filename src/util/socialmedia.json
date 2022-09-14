@@ -2,23 +2,23 @@
   "socialIcons": [
     {
       "icon": "facebook",
-      "url": "https://www.facebook.com/stackrolecom"
+      "url": "https://www.facebook.com/asadphotography"
     },
     {
       "icon": "instagram",
-      "url": "https://www.instagram.com/stackrole/"
+      "url": "https://www.instagram.com/asad.photo/"
     },
     {
       "icon": "linkedin",
-      "url": "https://in.linkedin.com/company/stackrole"
+      "url": "https://in.linkedin.com/company/asadphoto"
     },
     {
-      "icon": "youtube",
-      "url": "https://www.youtube.com/channel/UCc1hYgIP_DzFMMzwLRcbDVQ"
+      "icon": "pinterest",
+      "url": "https://www.pinterest.com/asadphotography"
     },
     {
-      "icon": "dribbble",
-      "url": "https://dribbble.com/stackrole"
+      "icon": "tiktok",
+      "url": "https://tiktok.com/asad.photo"
     }
   ]
 }
